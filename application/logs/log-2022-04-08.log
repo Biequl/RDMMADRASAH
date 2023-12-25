@@ -1,0 +1,2 @@
+ERROR - 2022-04-08 17:31:44 --> Query error: Key column 'semester_id' doesn't exist in table - Invalid query: ALTER TABLE e_riwayatsiswa DROP INDEX `siswa_id`, ADD UNIQUE `siswa_id` (`siswa_id`, `tahunajaran_id`, `semester_id`) USING BTREE;
+ERROR - 2022-04-08 17:31:45 --> Query error: Key column 'semester_id' doesn't exist in table - Invalid query: ALTER TABLE e_riwayatsiswa DROP INDEX `siswa_id`, ADD UNIQUE `siswa_id` (`siswa_id`, `tahunajaran_id`, `semester_id`) USING BTREE;

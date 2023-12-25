@@ -1,0 +1,1 @@
+ERROR - 2023-11-25 09:41:42 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 - Invalid query: ALTER TABLE `e_kurikulum`  MODIFY `kurikulum_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT

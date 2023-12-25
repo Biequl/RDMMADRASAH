@@ -1,0 +1,1 @@
+ERROR - 2022-06-11 10:51:44 --> Query error: Multiple primary key defined - Invalid query: ALTER TABLE `e_administrasi`  ADD PRIMARY KEY (`administrasi_id`);

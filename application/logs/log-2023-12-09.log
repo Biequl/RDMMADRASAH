@@ -1,0 +1,3 @@
+ERROR - 2023-12-09 14:32:32 --> Severity: Warning --> Use of undefined constant APPDEV - assumed 'APPDEV' (this will throw an Error in a future version of PHP) C:\xampp74\htdocs\rdmmadrasah\application\libraries\AssetPacker.php 0
+ERROR - 2023-12-09 14:32:32 --> Severity: Warning --> Use of undefined constant APPDEV - assumed 'APPDEV' (this will throw an Error in a future version of PHP) C:\xampp74\htdocs\rdmmadrasah\application\libraries\AssetPacker.php 0
+ERROR - 2023-12-09 14:32:33 --> Severity: Warning --> Use of undefined constant APPDEV - assumed 'APPDEV' (this will throw an Error in a future version of PHP) C:\xampp74\htdocs\rdmmadrasah\application\models\Emodel.php 0
